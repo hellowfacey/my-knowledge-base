@@ -72,7 +72,10 @@ ___
 
 ___
 
-# [Notes ...](https://vorpus.org/blog/notes-on-structured-concurrency-or-go-statement-considered-harmful/#go-statement-considered-harmful)
+# [Notes on  structured concurrency, or: Go statement considered harmful](https://vorpus.org/blog/notes-on-structured-concurrency-or-go-statement-considered-harmful/#go-statement-considered-harmful)
+#Python #Concurrency #StructuredProgramming 
+
+Nathaniel Smith analyses the goto statement harm in context of concurrency and introducing the [[Nursery]] pattern.
 
 ___
 
