@@ -1,4 +1,5 @@
 #DDD #SoftwareDevelopment
+
 # Usage
 Ubiqutious Language is a [[Strategic Design]] pattern when [[Domain Expert]], engineers and other workers use defined somewhere business terms to discuss about project. All participants of development processes should contribute to ubiquitous language.
 
