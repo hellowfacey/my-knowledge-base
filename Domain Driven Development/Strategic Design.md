@@ -5,7 +5,8 @@ Strategic Design analyses the business problem, *what* and *why* to do. It makes
 # When
 Strategic Design is the first step in domain analysis.
 
-# Patterns
-- [[Ubiquitous Language]]
-- [[Subdomain]]
-- [[Bounded Context]]
+# Further reading
+- [Ubiquitous Language](Ubiquitous%20Language.md)
+- [Subdomain](Subdomain.md)
+- [Bounded Context](Bounded%20Context.md)
+- [Domain Storytelling](Domain%20Storytelling.md)
