@@ -24,6 +24,8 @@ ___
 
 David Beazley tells the story of concurrency in Python: threads, processes, coroutines via generators and coroutines themselves.
 
+___
+
 # [Modern Object Pascal Introduction for Programmers](https://castle-engine.io/modern_pascal)
 #Pascal #Tutorial
 
@@ -59,6 +61,8 @@ ___
 
 # [Introduction to Language Theory](https://cs.lmu.edu/~ray/notes/languagetheory/)
 #LanguageTheory #Automata 
+
+___
 
 # [The list of monoids pattern](https://blog.ocharles.org.uk/posts/2022-06-22-list-of-monoids-pattern.html)
 #Haskell #SoftwareDevelopment #Patterns
@@ -136,7 +140,7 @@ and have analyzed some reactive languages.
 
 ___
 
-# [Find Context Boundaries with Domain Storytelling][https://www.youtube.com/watch?v=Y1ykXnl6r7s]
+# [Find Context Boundaries with Domain Storytelling](https://www.youtube.com/watch?v=Y1ykXnl6r7s)
 #DDD #SoftwareDevelopment #StrategicDesign
 
 Stefan Hofer and Henning Schwenter make a small introduction to Domain Storytelling with seafaring domain example and elaborate how and when to use this modeling tool for strategic design. ^find-context-boundaries-with-domain-storytelling
