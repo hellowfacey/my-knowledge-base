@@ -21,4 +21,4 @@ This is a good option when:
 * You want to analyze stages of the business process
 
 # Further reading
-1. [Find Context Boundaries with Domain Storytelling](Library.md#^find-context-boundaries-with-domain-storytelling)
+1. [Find Context Boundaries with Domain Storytelling](../Library.md#^find-context-boundaries-with-domain-storytelling)
