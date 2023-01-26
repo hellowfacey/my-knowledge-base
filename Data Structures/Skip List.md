@@ -1,17 +1,17 @@
 #DataStructures #ProbabilisticDataStructures 
 
-A set of [[Linked List]]s.
+A set of [Linked Lists](./Linked%20List.md).
 
 # Prerequsites
-Let's assume, that we have a view of items to sell, and we have next use-cases:
+Let's assume that we have a page with items to sell, so we have next use-cases:
 * Put up item for sale (Insertion)
 * Search an item by criteria (Search)
 * Remove item from sale (Deletion)
 
-[[Linked List]] doesn't fit these requirements well, because search is linear. [[Array]] too, because we can't insert item there. So, we will combine the best features of both.
+Linked list doesn't fit these requirements well, because a search is linear. [Array](./Array.md) too, because we can't insert items there. So, we will combine the best features of both.
 
 # Description
-We have a base [[Linked List]] with all the items, and we have additional layers, where half of items of previous layer are skipped (this is why it called a skip list). We start search from the top layer, if search failed, then we moved to the next item in the next layer (this is why we choose [[Linked List]]), therefore we got a logarithmic search, because number of layers is log(length) as every layer contain only a half of items from previous layer.
+We have a base linked list with all the items and additional layers where half of the previous layer items are skipped (this is why it is called a skip list). We start a search from the top layer; if the search fails, we move to the next item in the next layer (this is why we use linked lists for implementation). Therefore we have a logarithmic search complexity because the number of layers is log(length), as every layer contains only half of the items from the previous layer.
 
 # Complexity
 
