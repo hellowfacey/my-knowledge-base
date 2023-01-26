@@ -133,3 +133,10 @@ Engineer Bainomugisha, Andoni Lombide Carreton, Tom Van Cutsem, Stijn Mostinckx,
 * etc
 
 and have analyzed some reactive languages.
+
+___
+
+# [Find Context Boundaries with Domain Storytelling][https://www.youtube.com/watch?v=Y1ykXnl6r7s]
+#DDD #SoftwareDevelopment #StrategicDesign
+
+Stefan Hofer and Henning Schwenter make a small introduction to Domain Storytelling with seafaring domain example and elaborate how and when to use this modeling tool for strategic design. ^find-context-boundaries-with-domain-storytelling
