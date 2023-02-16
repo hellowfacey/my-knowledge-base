@@ -12,6 +12,10 @@ Carl Hewitt, Peter Bishop, Richard Steiger introduce the concept of [[Actor Mode
 
 ___
 
+# [Zipper](https://www.st.cs.uni-saarland.de/edu/seminare/2005/advanced-fp/docs/huet-zipper.pdf)
+
+___
+
 # [Clowns to the Left of me, Jokers to the Right — Dissecting Data Structures](https://personal.cis.strath.ac.uk/conor.mcbride/Dissect.pdf)
 #Haskell #LanguageTheory #DataStructures
 
@@ -144,3 +148,14 @@ ___
 #DDD #SoftwareDevelopment #StrategicDesign
 
 Stefan Hofer and Henning Schwenter make a small introduction to Domain Storytelling with seafaring domain example and elaborate how and when to use this modeling tool for strategic design. ^find-context-boundaries-with-domain-storytelling
+
+___
+
+# [Value objects with Python](https://blog.szymonmiks.pl/p/value-objects-with-python/)
+#DDD #Python #TacticDesign 
+
+Szymon Miks explains:
+* Value object
+* Its characteristics
+* Benefits
+and shows a lot of real world examples like price, SSH2 public key, email address etc.
